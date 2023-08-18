@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👯 I’m looking to collaborate on **StoryAI**
+- 👯 I’m looking to collaborate on **StudyAI**
 
 - 🤝 I’m looking for help with [Silicon Exchange](https://siliconx.cloud/)
 
