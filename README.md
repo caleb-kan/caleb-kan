@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AI Research Agent](https://calebkan.streamlit.app/)
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Haskell**
 
 - 👯 I’m looking to collaborate on **StudyAI**
 
