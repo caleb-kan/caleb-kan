@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/caleb-kan?tab=repositories](https://github.com/caleb-kan?tab=repositories)
 
-- 💬 Ask me about **python, SQL, NoSQL, AI & ML, etc...**
+- 💬 Ask me about **Python, SQL, NoSQL, AI & ML, etc...**
 
 - 📫 How to reach me **calebkan1106@gmail.com**
 
