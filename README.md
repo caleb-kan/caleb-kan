@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">A passionate Software & ML Engineer from Hong Kong studying Computing @Imperial College London</h3>
+<h3 align="center">A passionate Software & ML Engineer from Hong Kong studying Computing @ Imperial College London</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 - 🔭 I’m currently working on [AI Research Agent](https://calebkan.streamlit.app/)
